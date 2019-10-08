@@ -1,2 +1,2 @@
 # Personlize-BTC-Address
-A code to personalize bitcoin address
+A code to personalize bitcoin address in Python
